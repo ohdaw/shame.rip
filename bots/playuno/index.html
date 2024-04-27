@@ -330,11 +330,12 @@
                 width: 12.375rem;
                 border-radius: 100%;
                 box-shadow: -0rem 0rem 10rem 0rem #6B3707;
-                transition: none;
+                transition: transform 0.5s ease, z-index 0.5s ease;
             }
 
-            #image01 .frame img {
-                transition: none;
+            #image01 .frame:hover {
+                transform: rotate(-6.5deg);
+                z-index: 1;
             }
 
             h1, h2, h3, p {
@@ -353,7 +354,7 @@
 
             #text01 {
                 color: #C4C4C4;
-                font-family: 'Golos Text', sans-serif;
+                font-family: 'Lexend Deca', sans-serif;
                 font-size: 1.875em;
                 line-height: 1.5;
                 font-weight: 500;
@@ -439,7 +440,7 @@
                 border-radius: 0.875rem;
                 height: 1em;
                 width: 1em;
-                transition: color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
+                transition: transform 0.25s ease, color 0.25s ease, background-color 0.25s ease, border-color 0.25s ease;
             }
 
             #icons01 li a svg {
@@ -453,7 +454,15 @@
             }
 
             #icons01 li a + svg {
-                transition: fill 0.25s ease, stroke 0.25s ease;
+                transition: transform 0.25s ease, fill 0.25s ease, stroke 0.25s ease;
+            }
+
+            #icons01 li a:hover {
+                transform: scale(1.2);
+            }
+
+            #icons01 li a:hover + svg {
+                transform: scale(1.2);
             }
 
             #icons01 .n01 svg {
@@ -686,7 +695,7 @@
                     </h1>
                     <ul id="icons01" class="icons">
                         <li>
-                            <a class="n01" href="https://discord.com/users/1142133894775320688">
+                            <a class="n01" href="https://shame.rip/support">
                                 <svg aria-labelledby="icon-title">
                                     <title id="icon-title">Discord</title>
                                     <use xlink:href="#icon-3b7eeeccbb457780f277fce4669f67a0"></use>
@@ -723,9 +732,14 @@
                         </li>
                     </ul>
                     <p id="text02">
-                        Create an immersive experience with the most <span style="color: #e32701">interactive</span>
-                        <strong>&amp;</strong>
-                        <span style="color: #fe6807">unique</span>
+                        Create an immersive experience with the most 
+                        <span style="color: #e32701">
+                            <strong>interactive</strong>
+                        </span>
+                        &amp;
+                        <span style="color: #fe6807">
+                            <strong>unique</strong>
+                        </span>
                         recreational project on Discord!
                     </p>
                 </div>
