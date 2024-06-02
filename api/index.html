@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Animal Image</title>
+</head>
+<body>
+    <h1>Random Animal Image</h1>
+    <div id="image-container">
+        <img id="animal-image" src="" alt="Random Animal Image">
+    </div>
+    <pre id="json-response"></pre>
+    <script>
+        async function getRandomAnimalImage() {
+            const baseUrl = 'https://shame.rip/infrastructure/asset/animals/';
+            
+            while (true) {
+                const filename = generateRandomFilename();
+                const imageUrl = baseUrl + filename;
+                
+                const response = await fetch(imageUrl);
+                if (response.ok) {
+                    return imageUrl;
+                }
+            }
+        }
+
+        function generateRandomFilename() {
+            const randomString = Array.from({length: 16}, () => Math.floor(Math.random() * 16).toString(16)).join('');
+            return randomString + randomString + '.gif';
+        }
+
+        async function displayRandomAnimalImage() {
+            const imageUrl = await getRandomAnimalImage();
+            const jsonResponse = {
+                imageUrl: imageUrl
+            };
+
+            document.getElementById('animal-image').src = imageUrl;
+            document.getElementById('json-response').textContent = JSON.stringify(jsonResponse, null, 2);
+        }
+
+        displayRandomAnimalImage();
+    </script>
+</body>
+</html>
