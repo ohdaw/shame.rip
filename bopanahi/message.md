@@ -11,7 +11,7 @@ The third story, now at 7/XX/2024 the incident happened again, but instead of ON
 
 Side Notes: She took advantage of my trust and love so many times, she lied so many times and she made me cry so many times and I made her game to support her she didn't even wanted to do it till I done all the work solo and look at it now making lot of robux to resale and while she done all these I've bought her so many stuff and wasted so many stuff on her just for her to treat me like this (1500+ USD), and I've never talked or interacted with a girl while with her because I didn't want too and also she didn't want too but when I asked her to do the same, she refused about it and did all these things and forgot to mention I allowed her to have guy friends and I wasn't insecure till SHE made me insecure about it.
 
-(One more thing, I genuinely don't care if she has boy-friends but I do care if she keeps them hidden or secretive from me loooool and also a day after we officially broke up she already messing with aspects like after we broke up she got in vc with him and etc but I don't really care 😂 gonna make my bands again and upgrade my hellcat 👍)
+(One more thing, I genuinely don't care if she has boy-friends but I do care if she keeps them hidden or secretive from me loooool and also a day after we officially broke up she already messing with aspect, like after we broke up she got in vc with him and etc but I don't really care 😂 gonna make my bands again and upgrade my hellcat 👍)
 
 🔗 ATTACHMENTS OF PROOF:
 
@@ -33,7 +33,6 @@ and here's extra where she commented
 https://shame.rip/bopanahi/IMG_2623.png
 
 WHEN I CONFRONTED HER: 
-
 https://shame.rip/bopanahi/IMG_5226.png -- tried gaslighting me u can tell LMFOA
 https://shame.rip/bopanahi/IMG_5227.png -- "I unfollowed it eitherway" nice one
 https://shame.rip/bopanahi/IMG_5228.png -- look at her runnin away and while I was being delu 
@@ -65,7 +64,6 @@ https://shame.rip/bopanahi/IMG_5222.png -- SHE knew he was being a pedo
 🔗 EXTRAS PROOF:
 https://shame.rip/bopanahi/Screenshot202407-13074046.png -- While with me, she looks at his twitter? (DKANE)
 https://shame.rip/bopanahi/Screenshot2024-07-13074300.png -- Rumoring about me choosing the hoes? but in live she was saying how I was the loyalist person she met? doesn't make since and she can't provide any PROOF that I messed with a girl while with her 
-
 
 She also posts videos of her exs and then when I get mad at her she blocks me? lool 
 https://shame.rip/bopanahi/IMG_5223.png -- Confronting her and then she blocked me after that 
