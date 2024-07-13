@@ -61,6 +61,10 @@ https://shame.rip/bopanahi/Screenshot2024-07-13074907.png -- WHILE we were toget
 https://shame.rip/bopanahi/RPReplay_Final1716061172.mov -- VIDEO of aspect being a pedo 
 https://shame.rip/bopanahi/IMG_5222.png -- SHE knew he was being a pedo
 
+https://shame.rip/bopanahi/IMG_3891.png
+
+LITERALLY 3 DAYS AFTER A BREAKUP 😂
+
 🔗 EXTRAS PROOF:
 https://shame.rip/bopanahi/Screenshot202407-13074046.png -- While with me, she looks at his twitter? (DKANE)
 https://shame.rip/bopanahi/Screenshot2024-07-13074300.png -- Rumoring about me choosing the hoes? but in live she was saying how I was the loyalist person she met? doesn't make since and she can't provide any PROOF that I messed with a girl while with her 
@@ -79,3 +83,10 @@ She told everyone I've tried doxxing her or that I made a game for a girl while 
 https://shame.rip/bopanahi/IMG_5184.png -- "Followed an old guy friend" but didn't tell them EXTACTLY what happened and look them being falling into her words props to you for being honest" 😂
 
 https://shame.rip/bopanahi/IMG_5185.png -- "made a game for a girl while with Anahi" I literally NEVER done that and I didn't talk with another girl while with Anahi, and in her LIVE she was also saying how I was the loyalist boy she met but then she said this? story isn't adding up gang 😭
+
+---------------------------------------
+I did NOT plan to steal my sshf back i've just seen fiery horns go up to 1.1m+ value and then I seen her following go up and I asked her
+
+https://shame.rip/bopanahi/IMG_5236.png
+
+Look at her telling her fans I tried doxxing her 😂
