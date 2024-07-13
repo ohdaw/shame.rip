@@ -1,10 +1,9 @@
-BEFORE YOU READ 
+⚠️ BEFORE YOU READ 
 (I DID NOT leak any personal information and nothing that would impact her real life not online life , I'm just exposing what she did to me and what shit she lied abt)
 
-About anahi
+ABOUT ANAHI:
 
 The first story, when we got together everything was fine for couple months, then she followed a guy without telling me and promised me that she didn't, but then suddenly when she was screen sharing I saw a guy on top of her comments when viewing a worskii video and once I caught her, she flipped it on me and threaten to leave me and then I forgave her and she promised she wont lie to me nor hide it from me.
-
 
 The second story, after couple weeks she followed another guy and I found out personally myself and then I've made up a plan for her to fall and I asked Anahi if we can screenshare 4 screenshare and then before she started I seen her unfollow and refollow a random and I took a picture and then she screenshared and then once she was done, she unfollowed a random account and followed him back and then I caught her on the act and she gaslighted me and started lying and then MY dumbass accepted it and forgave her and she PROMISED again she wont do it again.
 
@@ -14,37 +13,30 @@ Side Notes: She took advantage of my trust and love so many times, she lied so m
 
 (One more thing, I genuinely don't care if she has boy-friends but I do care if she keeps them hidden or secretive from me loooool and also a day after we officially broke up she already messing with aspects like after we broke up she got in vc with him and etc but I don't really care 😂 gonna make my bands again and upgrade my hellcat 👍)
 
-Attachments of Proof:
+🔗 ATTACHMENTS OF PROOF:
 
 FIRST STORY PROOF: 
-
 https://shame.rip/bopanahi/IMG_5218.png
 
 SECOND STORY PROOF:
-
 https://shame.rip/bopanahi/IMG_2622.png -- HER IN FOLLOWING
 https://shame.rip/bopanahi/IMG_2620.png -- AMOUNT OF FOLLOWERS
 
 -------------------------------------------------------- Found out and took a picture 
 
 After the screenshare was finished 
-
 https://shame.rip/bopanahi/IMG_2695.png -- FOLLOWED BACK 
 
 ---------------------------------------- Confronted her and then
 https://shame.rip/bopanahi/IMG_2697.png -- she unfollowed LOL
-
 and here's extra where she commented 
-
 https://shame.rip/bopanahi/IMG_2623.png
-
 
 WHEN I CONFRONTED HER: 
 
 https://shame.rip/bopanahi/IMG_5226.png -- tried gaslighting me u can tell LMFOA
 https://shame.rip/bopanahi/IMG_5227.png -- "I unfollowed it eitherway" nice one
 https://shame.rip/bopanahi/IMG_5228.png -- look at her runnin away and while I was being delu 
-
 
 THIRD STORY PROOF: 
 https://shame.rip/bopanahi/image-1.png
@@ -54,7 +46,7 @@ https://shame.rip/bopanahi/image-2.png
 https://shame.rip/bopanahi/image23.png -- HER SAYING SHE DIDNT
 https://shame.rip/bopanahi/IMG_5181.png -- changed the story up 
 
-(Aspect and Anahi Proof): 
+🔗 ASPECT & ANAHI PROOF: 
 Keep in mind they were in each others server while me and Anahi were dating
 
 https://shame.rip/bopanahi/Screenshot2024-07-13074526.png -- Asking for banner
@@ -70,19 +62,15 @@ https://shame.rip/bopanahi/Screenshot2024-07-13074907.png -- WHILE we were toget
 https://shame.rip/bopanahi/RPReplay_Final1716061172.mov -- VIDEO of aspect being a pedo 
 https://shame.rip/bopanahi/IMG_5222.png -- SHE knew he was being a pedo
 
-Extras Proof:
-
+🔗 EXTRAS PROOF:
 https://shame.rip/bopanahi/Screenshot202407-13074046.png -- While with me, she looks at his twitter? (DKANE)
 https://shame.rip/bopanahi/Screenshot2024-07-13074300.png -- Rumoring about me choosing the hoes? but in live she was saying how I was the loyalist person she met? doesn't make since and she can't provide any PROOF that I messed with a girl while with her 
 
 
 She also posts videos of her exs and then when I get mad at her she blocks me? lool 
-
 https://shame.rip/bopanahi/IMG_5223.png -- Confronting her and then she blocked me after that 
 https://shame.rip/bopanahi/IMG_5225.png -- I sent her a paragraph
-
 https://shame.rip/bopanahi/sent.md -- heres the paragraph ive sent to her
-
 
 -----------------------------------------------------------------
 I know I deserved better so much better she don't deserve me at all
