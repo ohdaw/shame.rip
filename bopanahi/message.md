@@ -10,77 +10,76 @@ The second story, after couple weeks she followed another guy and I found out pe
 
 The third story, now at 7/XX/2024 the incident happened again, but instead of ONE she did TWO people and I've caught her and I broke up with her because I'm so done over it and she decided to go on live and start to lie around, I did not leave her over a old friend I don't care about that, I just care that she hid it from me and she decided to go around and make a rumor about me "Tried Doxxing her" and how I made a game for a girl while with her and etc 
 
-Side Notes: She took advantage of my trust and love so many times, she lied so many times and she made me cry so many times and I made her game to support her she didn't even wanted to do it till I done all the work solo and look at it now making lot of robux to resale and while she done all these I've bought her so many stuff and wasted so many stuff on her just for her to treat me like this (1500+ USD), and I've never talked or interacted with a girl while with her because I didn't want too and also she didn't want too but when I asked her to do the same, she refused about it and did all these things and forgot to mention I allowed her to have guy friends and I wasnt insecure till SHE made me insecure about it.
+Side Notes: She took advantage of my trust and love so many times, she lied so many times and she made me cry so many times and I made her game to support her she didn't even wanted to do it till I done all the work solo and look at it now making lot of robux to resale and while she done all these I've bought her so many stuff and wasted so many stuff on her just for her to treat me like this (1500+ USD), and I've never talked or interacted with a girl while with her because I didn't want too and also she didn't want too but when I asked her to do the same, she refused about it and did all these things and forgot to mention I allowed her to have guy friends and I wasn't insecure till SHE made me insecure about it.
 
-(One more thing, I genuinely don't care if she has boy-friends but I do care if she keeps them hidden or secretive from me loooool and also a day after we officially broke up she already messing with aspects like after we broke up she got in vc with him and etc but i dont really care 😂 gonna make my bands again and upgrade my hellcat 👍)
+(One more thing, I genuinely don't care if she has boy-friends but I do care if she keeps them hidden or secretive from me loooool and also a day after we officially broke up she already messing with aspects like after we broke up she got in vc with him and etc but I don't really care 😂 gonna make my bands again and upgrade my hellcat 👍)
 
 Attachments of Proof:
 
 FIRST STORY PROOF: 
 
-https://files.offshore.cat/ZrWiFPf2.webp
+https://shame.rip/bopanahi/IMG_5218.png
 
 SECOND STORY PROOF:
 
-https://files.offshore.cat/ZPqOWt0E.webp -- HER IN FOLLOWING
-https://files.offshore.cat/H8uog2Vy.webp -- AMOUNT OF FOLLOWERS
+https://shame.rip/bopanahi/IMG_2622.png -- HER IN FOLLOWING
+https://shame.rip/bopanahi/IMG_2620.png -- AMOUNT OF FOLLOWERS
 
 -------------------------------------------------------- Found out and took a picture 
 
 After the screenshare was finished 
 
-https://files.offshore.cat/lOqra1Z8.webp -- FOLLOWED BACK 
+https://shame.rip/bopanahi/IMG_2695.png -- FOLLOWED BACK 
 
 ---------------------------------------- Confronted her and then
-https://files.offshore.cat/Ve8K03HD.webp -- she unfollowed LOL
+https://shame.rip/bopanahi/IMG_2697.png -- she unfollowed LOL
 
 and here's extra where she commented 
 
-https://files.offshore.cat/hrV5lRCR.webp
+https://shame.rip/bopanahi/IMG_2623.png
 
 
 WHEN I CONFRONTED HER: 
 
-https://files.offshore.cat/kcruWOtB.png -- tried gaslighting me u can tell LMFOA
-https://files.offshore.cat/Del6VJas.png -- "I unfollowed it eitherway" nice one
-https://files.offshore.cat/4v5uPirz.png -- look at her runnin away and while I was being delu 
+https://shame.rip/bopanahi/IMG_5226.png -- tried gaslighting me u can tell LMFOA
+https://shame.rip/bopanahi/IMG_5227.png -- "I unfollowed it eitherway" nice one
+https://shame.rip/bopanahi/IMG_5228.png -- look at her runnin away and while I was being delu 
 
 
 THIRD STORY PROOF: 
-https://files.offshore.cat/OsrNWXP4.webp
-https://files.offshore.cat/JrryuQxt.webp
+https://shame.rip/bopanahi/image-1.png
+https://shame.rip/bopanahi/image-2.png
 -- ] Proof of Following them / adding them 
 
-https://files.offshore.cat/6J02wRN3.png -- HER SAYING SHE DIDNT
-https://files.offshore.cat/kbdD4YZ2.png -- changed the story up
-
+https://shame.rip/bopanahi/image23.png -- HER SAYING SHE DIDNT
+https://shame.rip/bopanahi/IMG_5181.png -- changed the story up 
 
 (Aspect and Anahi Proof): 
-Keep in mind they were in eachothers server while me and anahi were dating
+Keep in mind they were in each others server while me and Anahi were dating
 
-https://files.offshore.cat/11heDkvp.png -- Asking for banner
-https://files.offshore.cat/5YMPkrRn.png -- heres proof shes asking for banner
+https://shame.rip/bopanahi/Screenshot2024-07-13074526.png -- Asking for banner
+https://shame.rip/bopanahi/Screenshot2024-07-13074613.png -- heres proof shes asking for banner
 
-https://files.offshore.cat/TjMKegwi.png -- "Jokes over imy come back" -- he blocked anahi as a joke
+https://shame.rip/bopanahi/Screenshot2024-07-13074651.png -- "Jokes over imy come back" -- he blocked anahi as a joke
 
-https://files.offshore.cat/Wm59IaEw.png -- Asked him to unblock
-https://files.offshore.cat/vzfjAjZK.png -- Found out she got blocked
+https://shame.rip/bopanahi/Screenshot2024-07-13074739.png -- Asked him to unblock
+https://shame.rip/bopanahi/Screenshot2024-07-13074806.png -- Found out she got blocked
 
-https://files.offshore.cat/iZVIM1tv.png -- WHILE we were tg btw
+https://shame.rip/bopanahi/Screenshot2024-07-13074907.png -- WHILE we were together btw
 
-https://files.offshore.cat/E2TWZNnW.mov -- VIDEO of aspect being a pedo 
-https://files.offshore.cat/UytMIuYb.png -- SHE knew he was being a pedo
+https://shame.rip/bopanahi/RPReplay_Final1716061172.mov -- VIDEO of aspect being a pedo 
+https://shame.rip/bopanahi/IMG_5222.png -- SHE knew he was being a pedo
 
 Extras Proof:
 
-https://files.offshore.cat/ppyMNjNw.png -- While with me, she looks at his twitter? (DKANE)
-https://files.offshore.cat/MJl4xx8i.png -- Rumoring about me choosing the hoes? but in live she was saying how i was the loyalist person she met? doesnt make since and she can't provide any PROOF that i messed with a girl while with her 
+https://shame.rip/bopanahi/Screenshot202407-13074046.png -- While with me, she looks at his twitter? (DKANE)
+https://shame.rip/bopanahi/Screenshot2024-07-13074300.png -- Rumoring about me choosing the hoes? but in live she was saying how I was the loyalist person she met? doesn't make since and she can't provide any PROOF that I messed with a girl while with her 
 
 
-She also posts videos of her exs and then when i get mad at her she blocks me? lool 
+She also posts videos of her exs and then when I get mad at her she blocks me? lool 
 
-https://files.offshore.cat/X3W5KEC8.png -- Confronting her and then she blocked me after that 
-https://files.offshore.cat/o0OnEZg5.png -- I sent her a paragraph
+https://shame.rip/bopanahi/IMG_5223.png -- Confronting her and then she blocked me after that 
+https://shame.rip/bopanahi/IMG_5225.png -- I sent her a paragraph
 
 https://bitbin.it/fjcUx1gY/ -- heres the paragraph ive sent to her
 
@@ -91,6 +90,6 @@ I know I deserved better so much better she don't deserve me at all
 Here's shit she rumored about me in live:
 She told everyone I've tried doxxing her or that I made a game for a girl while with her but she can't name who or have proof? and I'm not the type of person to dox people lol
 
-https://files.offshore.cat/k7UJDqmU.png -- "Followed an old guy friend" but didn't tell them EXTACTLY what happened and look them being falling into her words props to you for being honest" 😂
+https://shame.rip/bopanahi/IMG_5184.png -- "Followed an old guy friend" but didn't tell them EXTACTLY what happened and look them being falling into her words props to you for being honest" 😂
 
-https://files.offshore.cat/QpBlZ8hT.png -- "made a game for a girl while with Anahi" I literally NEVER done that and I didn't talk with another girl while with Anahi, and in her LIVE she was also saying how I was the loyalist boy she met but then she said this? story isn't adding up gang 😭
+https://shame.rip/bopanahi/IMG_5185.png -- "made a game for a girl while with Anahi" I literally NEVER done that and I didn't talk with another girl while with Anahi, and in her LIVE she was also saying how I was the loyalist boy she met but then she said this? story isn't adding up gang 😭
