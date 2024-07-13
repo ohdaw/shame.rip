@@ -81,7 +81,7 @@ She also posts videos of her exs and then when I get mad at her she blocks me? l
 https://shame.rip/bopanahi/IMG_5223.png -- Confronting her and then she blocked me after that 
 https://shame.rip/bopanahi/IMG_5225.png -- I sent her a paragraph
 
-https://bitbin.it/fjcUx1gY/ -- heres the paragraph ive sent to her
+https://shame.rip/bopanahi/sent.md -- heres the paragraph ive sent to her
 
 
 -----------------------------------------------------------------
