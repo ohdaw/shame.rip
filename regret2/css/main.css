@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;600;900&display=swap');
 
 :root {
-    --primary-color: #6180ee;
+    --primary-color: #ea9bca;
     --background-color: #1a1a1a;
     --text-color: #ffffff;
     --feature-bg-color: rgba(97, 128, 238, 0.1);
     --feature-bg-hover-color: rgba(97, 128, 238, 0.2);
-    --particle-color: #6180ee;
-    --button-border-color: #6180ee;
-    --button-hover-bg-color: #6180ee;
+    --particle-color: #ea9bca;
+    --button-border-color: #f6b1da;
+    --button-hover-bg-color: #f6b1da;
     --button-hover-text-color: #1a1a1a;
     --button-hover-shadow-color: rgba(97, 128, 238, 0.3);
     --feature-hover-shadow-color: rgba(97, 128, 238, 0.2);
