@@ -10,9 +10,9 @@
     --button-border-color: #f6b1da;
     --button-hover-bg-color: #f6b1da;
     --button-hover-text-color: #1a1a1a;
-    --button-hover-shadow-color: rgba(97, 128, 238, 0.3);
-    --feature-hover-shadow-color: rgba(97, 128, 238, 0.2);
-    --title-text-shadow-color: rgba(97, 128, 238, 0.5);
+    --button-hover-shadow-color: rgba(234, 155, 202, 0.3);
+    --feature-hover-shadow-color: rgba(234, 155, 202, 0.2);
+    --title-text-shadow-color: rgba(234, 155, 202, 0.5);
 }
 
 body {
