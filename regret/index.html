@@ -1,0 +1,87 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="theme-color" content="#9586e5">
+    <meta name="robots" content="index,follow">
+    <meta property="og:title" content="celine">
+    <meta property="og:description" content="enhanced moderation with an appealing aesthetic design">
+    <meta property="og:url" content="https://celine.piam.lol">
+    <meta property="og:image" content="images/e8c46d8b55682ad1c785dbd28a59380f.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="500">
+    <meta property="og:image:height" content="500">
+    <meta property="og:locale" content="en">
+    <meta property="og:site_name" content="celine.piam.lol">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>celine</title>
+    <link rel="stylesheet" href="css/main.css">
+<script>
+    async function fetchCounts() {
+        try {
+            const response = await fetch('https://raw.githubusercontent.com/peeyum/bot_cdn/refs/heads/main/count.json');
+            
+            if (!response.ok) {
+                throw new Error(`Network response was not ok: ${response.statusText}`);
+            }
+
+            const data = await response.json();
+            
+            document.getElementById('userCount').innerText = data.user_count ?? '0';
+            document.getElementById('serverCount').innerText = data.guild_count ?? '0';
+
+            setTimeout(() => {
+                document.getElementById('countDisplay').style.opacity = 0.8;
+            }, 1500);
+        } catch (error) {
+            console.error('Error fetching counts:', error);
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        document.getElementById('countDisplay').style.opacity = 0;
+        fetchCounts();
+    });
+</script></head>
+
+
+
+<body>
+    <div class="background"></div>
+    <div class="particles">
+    </div>
+    <h1>celine</h1>
+    <p>enhanced moderation with an appealing aesthetic design</p>
+    <div class="button-container">
+        <a href="https://discord.com/oauth2/authorize?client_id=1289011705753374800&amp;permissions=8&amp;integration_type=0&amp;scope=bot" class="button">invite me</a>
+        <a href="https://discord.gg/TuVABDAWX4" class="button">get support</a>
+    </div>
+    <div class="features">
+        <div class="feature">
+            <h3>utility</h3>
+            <p>efficient server management with celine, many utility commands with many possibilities. <span style="color: #b6aee4">c,help utility</span> for more information.</p>
+        </div>
+        <div class="feature">
+            <h3>moderation</h3>
+            <p>thorough moderation commands with many arguments &amp; parameters. <span style="color: #b6aee4">c,help moderation</span> for more information.</p>
+        </div>
+        <div class="feature">
+            <h3>information</h3>
+            <p>anything you want to need at your fingertips. no limits, just results. <span style="color: #b6aee4">c,help information</span> for more information.</p>
+        </div>
+    </div>
+    <div class="stats" id="countDisplay" style="opacity: 0;">
+        <div class="stat">
+            <div class="stat-value"><span id="serverCount">___</span></div>
+            <div class="stat-label">servers</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value"><span id="userCount">___</span></div>
+            <div class="stat-label">users</div>
+        </div>
+        <div class="stat">
+            <div class="stat-value">99%</div>
+            <div class="stat-label">uptime</div>
+        </div>
+    </div>
+
+
+</body></html>
