@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;600;900&display=swap');
+
+:root {
+    --primary-color: #6180ee;
+    --background-color: #1a1a1a;
+    --text-color: #ffffff;
+    --feature-bg-color: rgba(97, 128, 238, 0.1);
+    --feature-bg-hover-color: rgba(97, 128, 238, 0.2);
+    --particle-color: #6180ee;
+    --button-border-color: #6180ee;
+    --button-hover-bg-color: #6180ee;
+    --button-hover-text-color: #1a1a1a;
+    --button-hover-shadow-color: rgba(97, 128, 238, 0.3);
+    --feature-hover-shadow-color: rgba(97, 128, 238, 0.2);
+    --title-text-shadow-color: rgba(97, 128, 238, 0.5);
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    overflow: hidden;
+}
+
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle at center, var(--feature-bg-color), transparent);
+    z-index: -1;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 10rem;
+    margin-bottom: 0.5rem;
+    text-transform: lowercase;
+    letter-spacing: -0.05em;
+    color: var(--primary-color);
+    opacity: 0;
+    transform: translateY(-20px);
+    animation: fadeInUp 0.8s ease-out forwards;
+    line-height: 1;
+    padding: 0 20px;
+    text-shadow: 0 0 20px var(--title-text-shadow-color);
+}
+
+p {
+    font-weight: 300;
+    font-size: 1.4rem;
+    margin-top: 0.5rem;
+    opacity: 0;
+    max-width: 600px;
+    transform: translateY(20px);
+    animation: fadeInUp 0.8s ease-out 0.2s forwards;
+}
+
+.button-container {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.8s ease-out 0.4s forwards;
+}
+
+.button {
+    padding: 0.8rem 1.5rem;
+    background-color: transparent;
+    color: var(--text-color);
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    text-transform: lowercase;
+    border: 2px solid var(--button-border-color);
+    position: relative;
+    overflow: hidden;
+}
+
+.button:hover {
+    background-color: var(--button-hover-bg-color);
+    color: var(--button-hover-text-color);
+    transform: translateY(-3px);
+    box-shadow: 0 4px 10px var(--button-hover-shadow-color);
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.particles {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -1;
+}
+
+.particle {
+    position: absolute;
+    background-color: var(--particle-color);
+    border-radius: 50%;
+    opacity: 0.5;
+    animation: float 20s infinite, blink 1s infinite alternate;
+}
+
+@keyframes float {
+    0% { transform: translate(0, 0) rotate(0deg); }
+    25% { transform: translate(100px, 100px) rotate(90deg); }
+    50% { transform: translate(200px, 0) rotate(180deg); }
+    75% { transform: translate(100px, -100px) rotate(270deg); }
+    100% { transform: translate(0, 0) rotate(360deg); }
+}
+
+@keyframes blink {
+    from { opacity: 0.2; }
+    to { opacity: 0.8; }
+}
+
+.features {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 3rem;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.8s ease-out 0.6s forwards;
+}
+
+.feature {
+    background-color: var(--feature-bg-color);
+    border-radius: 12px;
+    padding: 1.5rem;
+    width: 250px;
+    text-align: left;
+    transition: all 0.3s ease;
+}
+
+.feature:hover {
+    background-color: var(--feature-bg-hover-color);
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px var(--feature-hover-shadow-color);
+}
+
+.feature h3 {
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: var(--primary-color);
+}
+
+.feature p {
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+.stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 3rem;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInUp 0.8s ease-out 0.8s forwards;
+}
+
+.stat {
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.stat:hover {
+    transform: scale(1.05);
+}
+
+.stat-value {
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: var(--primary-color);
+}
+
+.stat-label {
+    font-size: 0.9rem;
+    text-transform: lowercase;
+    letter-spacing: 1px;
+}
